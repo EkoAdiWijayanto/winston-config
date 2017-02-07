@@ -1,0 +1,23 @@
+{
+  "name": "winston-config",
+  "version": "1.0.0",
+  "description": "xawapi winston config",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EkoAdiWijayanto/winston-config.git"
+  },
+  "author": "Eko Adi Wijayanto",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/EkoAdiWijayanto/winston-config/issues"
+  },
+  "homepage": "https://github.com/EkoAdiWijayanto/winston-config#readme",
+  "dependencies": {
+    "config": "^1.25.1",
+    "winston": "^2.3.1"
+  }
+}
